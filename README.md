@@ -1,5 +1,5 @@
 # Top 10 Highest Grossing Hollywood Films of each year (1975-2018)
-This data visualization project gives an extremely detailed overview of how Hollywood films fared at box office since 1975 and charts important paramenters, IMDb ratings and their total worldwide gross, to name a few, against other parameters and analytically concludes results with the help of statistics. 
+This data visualization project gives an extremely detailed overview of how Hollywood films fared at box office since 1975 and charts important parameters, IMDb ratings and their total worldwide gross, to name a few, against other parameters and analytically concludes results with the help of statistics. 
 
 
 
