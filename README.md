@@ -6,5 +6,5 @@ This data visualization project gives an extremely detailed overview of how Holl
 **Links:**
 - The official blog post about this project is [here](). 
 - The Kaggle Notebook for this project is [here](https://www.kaggle.com/bidyutchanda/top-10-highest-grossing-films-1975-2018).
-- The dataset which has been used for this is [here](https://www.kaggle.com/bidyutchanda/top-10-hbidyutchandaighest-grossing-films-19752018).
+- The dataset which has been used for this is [here](https://www.kaggle.com/bidyutchanda/top-10-highest-grossing-films-19752018).
 - The Jupyter notebook for this project is located in this repo, but the [blog post]() sheds more light on the actual result comparison part. 
